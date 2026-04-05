@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://www.minna-no-keibi.co.jp/sitemap.xml
-
